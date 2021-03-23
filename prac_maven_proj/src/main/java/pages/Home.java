@@ -17,6 +17,7 @@ public class Home extends Base
 	
 	public void open_url()
 	{
+		System.out.print("fgg");
 		try {
 			intialise();
 		} catch (Exception e) 
