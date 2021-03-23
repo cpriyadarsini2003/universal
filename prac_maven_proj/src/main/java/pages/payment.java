@@ -12,10 +12,17 @@ public void f2()
 
 System.out.println("ghj");
 
-}
-public void f3()
-{
 
 }
 
+
+
+public void test() {
+	
+}
+public void f3() {
+	System.out.print("gg");
+
+
+}
 }
