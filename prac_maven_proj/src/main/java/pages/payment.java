@@ -13,4 +13,9 @@ public void f2()
 System.out.println("ghj");
 
 }
+public void f3()
+{
+
+}
+
 }
